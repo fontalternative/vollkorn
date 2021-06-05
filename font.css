@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-Medium.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-SemiBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-Bold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-ExtraBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-Black.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-Italic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-MediumItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-SemiBoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-BoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-ExtraBoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./woff2/Vollkorn-BlackItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 900;
+}
